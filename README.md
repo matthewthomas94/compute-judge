@@ -1,9 +1,9 @@
 
 # compute-judge
 
-![higuruma-hiromi-higuruma](https://github.com/user-attachments/assets/3c7a1fbe-5220-4531-a35e-fa676a5ea1ad)
-
 An intelligent model router skill for Claude Code that automatically selects the optimal Claude model for your task.
+
+![higuruma-hiromi-higuruma](https://github.com/user-attachments/assets/3c7a1fbe-5220-4531-a35e-fa676a5ea1ad)
 
 ## What is compute-judge?
 
